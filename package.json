@@ -1,0 +1,23 @@
+{
+	"name": "ShooterEN",
+	"author": "Khong Minh Thao",
+	"description": "a cloned game",
+	"keywords": [
+		"game",
+		"gun",
+		"shoot"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thaokm/shooter-en.git"
+	}
+}
